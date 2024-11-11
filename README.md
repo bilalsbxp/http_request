@@ -3,7 +3,7 @@ install Aplikasi Reqable & di Playstore / Appstore
 
 pkg update && pkg upgrade
 
-git clone github.com/bilalsbxp/http_requests
+git clone github.com/bilalsbxp/http_request
 
 #OPSIONAL
 
